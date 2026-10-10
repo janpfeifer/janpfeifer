@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 📫 How to reach me: I've been very active in [GoMLX](https://github.com/gomlx/gomlx), you can find me on the slack channel there, or in [LinkedIn](https://www.linkedin.com/in/janpfeifer/).
+   
+## My Metrics
+
+![Metrics](/github-metrics.svg)
+
 <!--
 **janpfeifer/janpfeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
